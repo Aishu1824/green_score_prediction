@@ -1,0 +1,201 @@
+product_id,product_name,description,brand,category,sustainability_labels,price
+p1,Organic Bamboo Toothbrush,"A toothbrush made of biodegradable bamboo, eco-friendly and sustainable.",EcoBrush,Toiletries,"biodegradable,organic",2.5
+p2,Biodegradable Plates,"Plates made from bagasse, compostable and ideal for green dining.",GreenTable,Tableware,compostable,5.99
+p3,Plastic-Free Shampoo,"Natural shampoo bar with zero plastic packaging, vegan and cruelty-free.",NaturePure,Hair Care,"plastic-free,vegan",7.49
+p4,Recycled Paper Notebook,"Notebook made from 100% recycled paper, perfect for eco-conscious note-taking.",GreenLeaf,Stationery,recycled,4.25
+p5,Organic Cotton T-Shirt,"Soft T-shirt made from 100% organic cotton, ethically sourced.",EcoWear,Clothing,"organic,ethical",15.99
+p6,Reusable Stainless Steel Straw,"Durable straw made from stainless steel, reduces plastic waste.",SteelSip,Accessories,reusable,3.75
+p7,Compostable Coffee Pods,"Coffee pods made from plant-based materials, fully compostable.",EcoBrew,Beverages,compostable,8.99
+p8,Bamboo Cutlery Set,"Portable cutlery set made from sustainable bamboo.",GreenFork,Tableware,"biodegradable,sustainable",6.49
+p9,Organic Lavender Soap,"Handmade soap with organic lavender, packaged in recyclable paper.",PureBloom,Toiletries,"organic,recyclable",4.99
+p10,Recycled Glass Water Bottle,"Reusable water bottle made from recycled glass, BPA-free.",ClearCycle,Accessories,"recycled,reusable",12.5
+p11,Eco-Friendly Yoga Mat,"Yoga mat made from natural cork and rubber, biodegradable.",ZenMat,Fitness,"biodegradable,organic",29.99
+p12,Plastic-Free Dish Soap,"Concentrated dish soap in a paper-based package, vegan formula.",CleanWave,Kitchen,"plastic-free,vegan",6.25
+p13,Organic Cotton Bed Sheets,"Soft bed sheets made from 100% organic cotton, ethically produced.",EcoRest,Bedding,"organic,ethical",59.99
+p14,Reusable Tote Bag,"Durable tote bag made from recycled polyester, perfect for shopping.",GreenCarry,Bags,"recycled,reusable",9.99
+p15,Compostable Trash Bags,"Trash bags made from plant-based materials, fully compostable.",EcoBin,Household,compostable,7.49
+p16,Organic Baby Onesie,"Soft onesie made from organic cotton, gentle on baby’s skin.",TinyGreen,Clothing,"organic,ethical",12.99
+p17,Bamboo Phone Case,"Protective phone case made from biodegradable bamboo.",EcoTech,Accessories,biodegradable,14.99
+p18,Recycled Plastic Sunglasses,"Stylish sunglasses made from recycled ocean plastic.",SeaShade,Accessories,recycled,24.99
+p19,Organic Green Tea,"Loose-leaf green tea, organically grown and packaged in compostable material.",PureLeaf,Beverages,"organic,compostable",5.99
+p20,Reusable Coffee Cup,"Insulated coffee cup made from recycled materials, BPA-free.",EcoSip,Beverages,"recycled,reusable",11.99
+p21,Biodegradable Hairbrush,"Hairbrush with bamboo bristles and handle, fully biodegradable.",GreenComb,Toiletries,biodegradable,8.49
+p22,Organic Cotton Socks,"Comfortable socks made from 100% organic cotton.",EcoFeet,Clothing,organic,6.99
+p23,Compostable Sponges,"Kitchen sponges made from plant-based fibers, compostable.",CleanGreen,Kitchen,compostable,3.99
+p24,Recycled Paper Greeting Cards,"Set of greeting cards made from 100% recycled paper.",EcoCard,Stationery,recycled,4.5
+p25,Plastic-Free Deodorant,"Natural deodorant in a recyclable paper tube, aluminum-free.",FreshEco,Toiletries,"plastic-free,recyclable",6.99
+p26,Organic Linen Napkins,"Reusable napkins made from organic linen, sustainably sourced.",GreenDine,Tableware,"organic,reusable",14.99
+p27,Bamboo Laptop Stand,"Ergonomic laptop stand made from sustainable bamboo.",EcoDesk,Office,biodegradable,19.99
+p28,Recycled Polyester Backpack,"Durable backpack made from recycled plastic bottles.",GreenPack,Bags,recycled,29.99
+p29,Organic Herbal Tea,"Blend of organic herbs in a compostable package.",PureBlend,Beverages,"organic,compostable",6.49
+p30,Reusable Silicone Food Bags,"Food storage bags made from food-grade silicone, reusable.",EcoStore,Kitchen,reusable,9.49
+p31,Biodegradable Toothpaste,"Natural toothpaste in a compostable tube, fluoride-free.",SmileGreen,Toiletries,"biodegradable,organic",5.99
+p32,Organic Cotton Towels,"Soft towels made from 100% organic cotton, ethically produced.",EcoBath,Bathroom,"organic,ethical",24.99
+p33,Compostable Straws,"Straws made from plant-based materials, fully compostable.",GreenSip,Tableware,compostable,2.99
+p34,Recycled Aluminum Water Bottle,"Lightweight water bottle made from recycled aluminum.",CycleWorks,Accessories,recycled,14.99
+p35,Organic Soy Candle,"Hand-poured candle made from organic soy wax, eco-friendly.",GlowGreen,Home Decor,"organic,eco-friendly",12.99
+p36,Plastic-Free Conditioner,"Conditioner bar with zero plastic packaging, vegan formula.",NaturePure,Hair Care,"plastic-free,vegan",7.99
+p37,Bamboo Sunglasses,"Sunglasses with bamboo frames, eco-friendly and stylish.",EcoShade,Accessories,biodegradable,22.99
+p38,Organic Cotton Apron,"Durable apron made from 100% organic cotton.",GreenChef,Kitchen,"organic,ethical",19.99
+p39,Compostable Cutlery,"Disposable cutlery made from plant-based materials.",EcoFork,Tableware,compostable,4.99
+p40,Recycled Paper Planner,"Planner made from 100% recycled paper, eco-conscious design.",GreenPlan,Stationery,recycled,9.99
+p41,Organic Body Lotion,"Moisturizing lotion made from organic ingredients, recyclable packaging.",PureBloom,Toiletries,"organic,recyclable",8.99
+p42,Reusable Glass Straw,"Durable straw made from recycled glass, eco-friendly.",ClearSip,Accessories,"recycled,reusable",4.49
+p43,Biodegradable Cleaning Wipes,"Wipes made from plant-based materials, fully compostable.",CleanGreen,Household,compostable,5.49
+p44,Organic Cotton Blanket,"Cozy blanket made from 100% organic cotton.",EcoRest,Bedding,"organic,ethical",49.99
+p45,Plastic-Free Lip Balm,"Natural lip balm in a recyclable paper tube.",FreshEco,Toiletries,"plastic-free,recyclable",3.99
+p46,Recycled Polyester Jacket,"Warm jacket made from recycled plastic bottles.",EcoWear,Clothing,recycled,59.99
+p47,Compostable Coffee Filters,"Coffee filters made from plant-based fibers, compostable.",EcoBrew,Beverages,compostable,3.49
+p48,Bamboo Coasters,"Set of coasters made from sustainable bamboo.",GreenTable,Tableware,biodegradable,7.99
+p49,Organic Shaving Cream,"Natural shaving cream in a recyclable aluminum tin.",PureBloom,Toiletries,"organic,recyclable",6.99
+p50,Reusable Stainless Steel Bottle,"Insulated bottle made from stainless steel, BPA-free.",SteelSip,Accessories,reusable,19.99
+p51,Organic Cotton Scarf,"Soft scarf made from 100% organic cotton, ethically sourced.",EcoWear,Clothing,"organic,ethical",14.99
+p52,Biodegradable Dish Brush,"Dish brush with bamboo handle and plant-based bristles.",CleanWave,Kitchen,biodegradable,4.99
+p53,Recycled Paper Envelopes,"Envelopes made from 100% recycled paper.",GreenLeaf,Stationery,recycled,2.99
+p54,Plastic-Free Body Wash,"Natural body wash in a recyclable paper bottle.",NaturePure,Toiletries,"plastic-free,recyclable",7.99
+p55,Compostable Food Wrap,"Food wrap made from plant-based materials, compostable.",EcoStore,Kitchen,compostable,6.49
+p56,Organic Cotton Pillowcase,"Soft pillowcase made from 100% organic cotton.",EcoRest,Bedding,"organic,ethical",19.99
+p57,Bamboo Toothbrush Holder,"Toothbrush holder made from sustainable bamboo.",EcoBrush,Toiletries,biodegradable,5.99
+p58,Recycled Plastic Hat,"Stylish hat made from recycled ocean plastic.",SeaShade,Accessories,recycled,19.99
+p59,Organic Matcha Tea,"Premium matcha tea, organically grown, in compostable packaging.",PureLeaf,Beverages,"organic,compostable",9.99
+p60,Reusable Silicone Straw,"Flexible straw made from food-grade silicone.",EcoSip,Accessories,reusable,3.49
+p61,Biodegradable Laundry Detergent,"Eco-friendly detergent in a compostable package.",CleanGreen,Household,compostable,8.99
+p62,Organic Cotton Beanie,"Warm beanie made from 100% organic cotton.",EcoWear,Clothing,"organic,ethical",12.99
+p63,Compostable Party Plates,"Party plates made from bagasse, fully compostable.",GreenTable,Tableware,compostable,6.99
+p64,Recycled Glass Candle Holder,"Candle holder made from recycled glass, eco-friendly.",ClearCycle,Home Decor,recycled,9.99
+p65,Plastic-Free Hand Soap,"Natural hand soap in a recyclable paper bottle.",NaturePure,Toiletries,"plastic-free,recyclable",5.99
+p66,Organic Cotton Tablecloth,"Elegant tablecloth made from 100% organic cotton.",GreenDine,Tableware,"organic,ethical",29.99
+p67,Bamboo Desk Organizer,"Desk organizer made from sustainable bamboo.",EcoDesk,Office,biodegradable,14.99
+p68,Recycled Polyester Tote,"Stylish tote made from recycled plastic bottles.",GreenPack,Bags,recycled,12.99
+p69,Organic Rooibos Tea,"Loose-leaf rooibos tea, organically grown, compostable packaging.",PureBlend,Beverages,"organic,compostable",6.99
+p70,Reusable Silicone Baking Mat,"Non-stick baking mat made from food-grade silicone.",EcoStore,Kitchen,reusable,10.99
+p71,Biodegradable Toothpicks,"Toothpicks made from sustainable bamboo.",GreenComb,Toiletries,biodegradable,1.99
+p72,Organic Cotton Pajamas,"Comfortable pajamas made from 100% organic cotton.",EcoRest,Clothing,"organic,ethical",39.99
+p73,Compostable Napkins,"Napkins made from plant-based fibers, compostable.",GreenDine,Tableware,compostable,3.99
+p74,Recycled Aluminum Tumbler,"Insulated tumbler made from recycled aluminum.",CycleWorks,Accessories,recycled,15.99
+p75,Organic Beeswax Candle,"Handmade candle made from organic beeswax.",GlowGreen,Home Decor,"organic,eco-friendly",11.99
+p76,Plastic-Free Face Wash,"Natural face wash in a recyclable paper bottle.",NaturePure,Toiletries,"plastic-free,recyclable",7.49
+p77,Bamboo Sunglass Case,"Protective case for sunglasses, made from bamboo.",EcoShade,Accessories,biodegradable,9.99
+p78,Organic Cotton Oven Mitts,"Heat-resistant oven mitts made from organic cotton.",GreenChef,Kitchen,"organic,ethical",12.99
+p79,Compostable Bowls,"Bowls made from bagasse, fully compostable.",GreenTable,Tableware,compostable,5.99
+p80,Recycled Paper Journal,"Journal made from 100% recycled paper, eco-friendly.",GreenPlan,Stationery,recycled,7.99
+p81,Organic Body Scrub,"Exfoliating scrub made from organic ingredients, recyclable jar.",PureBloom,Toiletries,"organic,recyclable",9.99
+p82,Reusable Glass Bottle,"Water bottle made from recycled glass, BPA-free.",ClearSip,Accessories,"recycled,reusable",13.99
+p83,Biodegradable Dish Cloths,"Dish cloths made from plant-based fibers, compostable.",CleanGreen,Kitchen,compostable,4.49
+p84,Organic Cotton Duvet Cover,"Soft duvet cover made from 100% organic cotton.",EcoRest,Bedding,"organic,ethical",69.99
+p85,Plastic-Free Sunscreen,"Natural sunscreen in a recyclable tin, reef-safe.",FreshEco,Toiletries,"plastic-free,recyclable",8.99
+p86,Recycled Polyester Scarf,"Warm scarf made from recycled plastic bottles.",EcoWear,Clothing,recycled,14.99
+p87,Compostable Coffee Cups,"Disposable coffee cups made from plant-based materials.",EcoBrew,Beverages,compostable,4.99
+p88,Bamboo Placemats,"Set of placemats made from sustainable bamboo.",GreenTable,Tableware,biodegradable,12.99
+p89,Organic Shampoo Bar,"Natural shampoo bar with organic ingredients, zero waste.",PureBloom,Hair Care,"organic,plastic-free",6.99
+p90,Reusable Stainless Steel Mug,"Insulated mug made from stainless steel, eco-friendly.",SteelSip,Beverages,reusable,16.99
+p91,Organic Cotton Gloves,"Warm gloves made from 100% organic cotton.",EcoWear,Clothing,"organic,ethical",9.99
+p92,Biodegradable Sponge,"Kitchen sponge made from plant-based materials.",CleanWave,Kitchen,biodegradable,3.49
+p93,Recycled Paper Postcards,"Postcards made from 100% recycled paper.",GreenLeaf,Stationery,recycled,2.49
+p94,Plastic-Free Body Lotion,"Natural body lotion in a recyclable paper bottle.",NaturePure,Toiletries,"plastic-free,recyclable",8.49
+p95,Compostable Food Containers,"Food containers made from plant-based materials.",EcoStore,Kitchen,compostable,7.99
+p96,Organic Cotton Curtains,"Elegant curtains made from 100% organic cotton.",EcoRest,Home Decor,"organic,ethical",49.99
+p97,Bamboo Soap Dish,"Soap dish made from sustainable bamboo.",EcoBrush,Toiletries,biodegradable,4.99
+p98,Recycled Plastic Wallet,"Durable wallet made from recycled ocean plastic.",SeaShade,Accessories,recycled,14.99
+p99,Organic Black Tea,"Loose-leaf black tea, organically grown, compostable packaging.",PureLeaf,Beverages,"organic,compostable",5.99
+p100,Reusable Silicone Lid,"Food storage lid made from food-grade silicone.",EcoStore,Kitchen,reusable,6.99
+p101,Biodegradable Floss,"Dental floss made from plant-based materials, compostable.",SmileGreen,Toiletries,biodegradable,3.99
+p102,Organic Cotton Hoodie,"Cozy hoodie made from 100% organic cotton.",EcoWear,Clothing,"organic,ethical",39.99
+p103,Compostable Straws,"Straws made from plant-based materials, compostable.",GreenSip,Tableware,compostable,2.99
+p104,Recycled Aluminum Bottle,"Lightweight bottle made from recycled aluminum.",CycleWorks,Accessories,recycled,14.99
+p105,Organic Soy Wax Melts,"Scented wax melts made from organic soy wax.",GlowGreen,Home Decor,"organic,eco-friendly",7.99
+p106,Plastic-Free Toothpaste Tabs,"Toothpaste tablets in a recyclable glass jar.",NaturePure,Toiletries,"plastic-free,recyclable",6.49
+p107,Bamboo Watch,"Eco-friendly watch with a bamboo strap and case.",EcoShade,Accessories,biodegradable,29.99
+p108,Organic Cotton Pot Holders,"Heat-resistant pot holders made from organic cotton.",GreenChef,Kitchen,"organic,ethical",9.99
+p109,Compostable Cups,"Disposable cups made from plant-based materials.",GreenTable,Tableware,compostable,4.99
+p110,Recycled Paper Sketchbook,"Sketchbook made from 100% recycled paper.",GreenPlan,Stationery,recycled,8.99
+p111,Organic Face Cream,"Moisturizing face cream with organic ingredients, recyclable jar.",PureBloom,Toiletries,"organic,recyclable",10.99
+p112,Reusable Glass Tumbler,"Tumbler made from recycled glass, BPA-free.",ClearSip,Accessories,"recycled,reusable",12.99
+p113,Biodegradable Scrub Pads,"Scrub pads made from plant-based fibers, compostable.",CleanGreen,Kitchen,compostable,3.99
+p114,Organic Cotton Mattress Cover,"Soft mattress cover made from 100% organic cotton.",EcoRest,Bedding,"organic,ethical",79.99
+p115,Plastic-Free Lip Gloss,"Natural lip gloss in a recyclable paper tube.",FreshEco,Toiletries,"plastic-free,recyclable",4.99
+p116,Recycled Polyester Vest,"Warm vest made from recycled plastic bottles.",EcoWear,Clothing,recycled,34.99
+p117,Compostable Tea Filters,"Tea filters made from plant-based fibers, compostable.",EcoBrew,Beverages,compostable,3.49
+p118,Bamboo Serving Tray,"Serving tray made from sustainable bamboo.",GreenTable,Tableware,biodegradable,19.99
+p119,Organic Body Butter,"Rich body butter with organic ingredients, recyclable jar.",PureBloom,Toiletries,"organic,recyclable",9.49
+p120,Reusable Stainless Steel Canister,"Food storage canister made from stainless steel.",SteelSip,Kitchen,reusable,14.99
+p121,Organic Cotton Bandana,"Stylish bandana made from 100% organic cotton.",EcoWear,Accessories,"organic,ethical",7.99
+p122,Biodegradable Dish Soap Bar,"Solid dish soap bar, zero waste and plant-based.",CleanWave,Kitchen,biodegradable,5.49
+p123,Recycled Paper Gift Tags,"Gift tags made from 100% recycled paper.",GreenLeaf,Stationery,recycled,2.49
+p124,Plastic-Free Shaving Soap,"Natural shaving soap in a recyclable tin.",NaturePure,Toiletries,"plastic-free,recyclable",6.49
+p125,Compostable Baking Cups,"Baking cups made from plant-based materials.",EcoStore,Kitchen,compostable,3.99
+p126,Organic Cotton Throw,"Cozy throw blanket made from 100% organic cotton.",EcoRest,Home Decor,"organic,ethical",39.99
+p127,Bamboo Pen,"Eco-friendly pen made from sustainable bamboo.",EcoDesk,Stationery,biodegradable,2.99
+p128,Recycled Plastic Belt,"Durable belt made from recycled ocean plastic.",SeaShade,Accessories,recycled,12.99
+p129,Organic Chamomile Tea,"Loose-leaf chamomile tea, organically grown, compostable packaging.",PureLeaf,Beverages,"organic,compostable",5.99
+p130,Reusable Silicone Wrap,"Food wrap made from food-grade silicone, reusable.",EcoStore,Kitchen,reusable,8.99
+p131,Biodegradable Cotton Swabs,"Cotton swabs with bamboo sticks, fully biodegradable.",SmileGreen,Toiletries,biodegradable,2.99
+p132,Organic Cotton Sweatshirt,"Comfortable sweatshirt made from 100% organic cotton.",EcoWear,Clothing,"organic,ethical",34.99
+p133,Compostable Party Cups,"Party cups made from plant-based materials, compostable.",GreenTable,Tableware,compostable,5.49
+p134,Recycled Aluminum Mug,"Insulated mug made from recycled aluminum.",CycleWorks,Beverages,recycled,13.99
+p135,Organic Beeswax Wrap,"Food wrap made from organic beeswax and cotton.",GlowGreen,Kitchen,"organic,eco-friendly",9.99
+p136,Plastic-Free Face Mask,"Natural face mask in a recyclable glass jar.",NaturePure,Toiletries,"plastic-free,recyclable",8.99
+p137,Bamboo Keychain,"Eco-friendly keychain made from sustainable bamboo.",EcoShade,Accessories,biodegradable,4.99
+p138,Organic Cotton Napkin Rings,"Napkin rings made from organic cotton, reusable.",GreenDine,Tableware,"organic,reusable",7.99
+p139,Compostable Food Trays,"Food trays made from bagasse, fully compostable.",GreenTable,Tableware,compostable,6.49
+p140,Recycled Paper Diary,"Diary made from 100% recycled paper, eco-friendly.",GreenPlan,Stationery,recycled,9.49
+p141,Organic Hand Cream,"Moisturizing hand cream with organic ingredients, recyclable jar.",PureBloom,Toiletries,"organic,recyclable",7.99
+p142,Reusable Glass Jar,"Food storage jar made from recycled glass.",ClearSip,Kitchen,"recycled,reusable",10.99
+p143,Biodegradable Cleaning Brush,"Cleaning brush with bamboo handle, plant-based bristles.",CleanGreen,Kitchen,biodegradable,4.99
+p144,Organic Cotton Bathrobe,"Soft bathrobe made from 100% organic cotton.",EcoRest,Bathroom,"organic,ethical",59.99
+p145,Plastic-Free Eye Cream,"Natural eye cream in a recyclable glass jar.",FreshEco,Toiletries,"plastic-free,recyclable",9.99
+p146,Recycled Polyester Pants,"Comfortable pants made from recycled plastic bottles.",EcoWear,Clothing,recycled,39.99
+p147,Compostable Coffee Sleeves,"Coffee sleeves made from plant-based materials.",EcoBrew,Beverages,compostable,2.99
+p148,Bamboo Cutting Board,"Durable cutting board made from sustainable bamboo.",GreenTable,Kitchen,biodegradable,14.99
+p149,Organic Lip Balm,"Natural lip balm with organic ingredients, recyclable tin.",PureBloom,Toiletries,"organic,recyclable",3.99
+p150,Reusable Stainless Steel Lunch Box,"Lunch box made from stainless steel, eco-friendly.",SteelSip,Kitchen,reusable,19.99
+p151,Organic Cotton Headband,"Soft headband made from 100% organic cotton.",EcoWear,Accessories,"organic,ethical",6.99
+p152,Biodegradable Spork,"Spork made from plant-based materials, compostable.",GreenFork,Tableware,biodegradable,2.49
+p153,Recycled Paper Bookmarks,"Bookmarks made from 100% recycled paper.",GreenLeaf,Stationery,recycled,1.99
+p154,Plastic-Free Body Scrub,"Natural body scrub in a recyclable glass jar.",NaturePure,Toiletries,"plastic-free,recyclable",8.99
+p155,Compostable Baking Tray,"Baking tray made from plant-based materials.",EcoStore,Kitchen,compostable,6.99
+p156,Organic Cotton Pillow,"Soft pillow made from 100% organic cotton.",EcoRest,Bedding,"organic,ethical",29.99
+p157,Bamboo Hair Clip,"Eco-friendly hair clip made from sustainable bamboo.",EcoBrush,Accessories,biodegradable,4.49
+p158,Recycled Plastic Bracelet,"Stylish bracelet made from recycled ocean plastic.",SeaShade,Accessories,recycled,9.99
+p159,Organic White Tea,"Loose-leaf white tea, organically grown, compostable packaging.",PureLeaf,Beverages,"organic,compostable",6.49
+p160,Reusable Silicone Bottle Cap,"Bottle cap made from food-grade silicone, reusable.",EcoStore,Accessories,reusable,3.99
+p161,Biodegradable Razor,"Razor with a bamboo handle, fully biodegradable.",SmileGreen,Toiletries,biodegradable,5.99
+p162,Organic Cotton Jacket,"Warm jacket made from 100% organic cotton.",EcoWear,Clothing,"organic,ethical",49.99
+p163,Compostable Straws,"Straws made from plant-based materials, compostable.",GreenSip,Tableware,compostable,2.99
+p164,Recycled Aluminum Canister,"Food storage canister made from recycled aluminum.",CycleWorks,Kitchen,recycled,12.99
+p165,Organic Soy Candle,"Hand-poured candle made from organic soy wax.",GlowGreen,Home Decor,"organic,eco-friendly",11.99
+p166,Plastic-Free Shampoo Bar,"Natural shampoo bar in a recyclable paper wrap.",NaturePure,Hair Care,"plastic-free,recyclable",6.99
+p167,Bamboo Wallet,"Eco-friendly wallet made from sustainable bamboo.",EcoShade,Accessories,biodegradable,14.99
+p168,Organic Cotton Placemats,"Placemats made from 100% organic cotton.",GreenDine,Tableware,"organic,ethical",12.99
+p169,Compostable Food Bags,"Food storage bags made from plant-based materials.",GreenTable,Kitchen,compostable,5.99
+p170,Recycled Paper Notebook,"Notebook made from 100% recycled paper.",GreenPlan,Stationery,recycled,7.49
+p171,Organic Face Serum,"Natural face serum with organic ingredients, recyclable bottle.",PureBloom,Toiletries,"organic,recyclable",12.99
+p172,Reusable Glass Mug,"Insulated mug made from recycled glass.",ClearSip,Beverages,"recycled,reusable",11.99
+p173,Biodegradable Scrubber,"Kitchen scrubber made from plant-based fibers.",CleanGreen,Kitchen,biodegradable,3.99
+p174,Organic Cotton Blanket,"Cozy blanket made from 100% organic cotton.",EcoRest,Bedding,"organic,ethical",49.99
+p175,Plastic-Free Tooth Powder,"Natural tooth powder in a recyclable glass jar.",FreshEco,Toiletries,"plastic-free,recyclable",5.99
+p176,Recycled Polyester Shirt,"Stylish shirt made from recycled plastic bottles.",EcoWear,Clothing,recycled,24.99
+p177,Compostable Tea Bags,"Tea bags made from plant-based materials, compostable.",EcoBrew,Beverages,compostable,4.49
+p178,Bamboo Napkin Holder,"Napkin holder made from sustainable bamboo.",GreenTable,Tableware,biodegradable,9.99
+p179,Organic Body Oil,"Natural body oil with organic ingredients, recyclable bottle.",PureBloom,Toiletries,"organic,recyclable",9.99
+p180,Reusable Stainless Steel Straw,"Durable straw made from stainless steel.",SteelSip,Accessories,reusable,3.49
+p181,Organic Cotton Socks,"Comfortable socks made from 100% organic cotton.",EcoWear,Clothing,"organic,ethical",6.99
+p182,Biodegradable Dish Rack,"Dish rack made from sustainable bamboo.",CleanWave,Kitchen,biodegradable,19.99
+p183,Recycled Paper Cards,"Greeting cards made from 100% recycled paper.",GreenLeaf,Stationery,recycled,3.99
+p184,Plastic-Free Conditioner Bar,"Natural conditioner bar in a recyclable paper wrap.",NaturePure,Hair Care,"plastic-free,recyclable",6.99
+p185,Compostable Food Wrap,"Food wrap made from plant-based materials.",EcoStore,Kitchen,compostable,5.49
+p186,Organic Cotton Towel,"Soft towel made from 100% organic cotton.",EcoRest,Bathroom,"organic,ethical",24.99
+p187,Bamboo Coaster Set,"Set of coasters made from sustainable bamboo.",GreenTable,Tableware,biodegradable,7.99
+p188,Recycled Plastic Sunglasses,"Stylish sunglasses made from recycled ocean plastic.",SeaShade,Accessories,recycled,24.99
+p189,Organic Herbal Blend,"Herbal tea blend, organically grown, compostable packaging.",PureLeaf,Beverages,"organic,compostable",6.99
+p190,Reusable Silicone Food Bag,"Food storage bag made from food-grade silicone.",EcoStore,Kitchen,reusable,8.99
+p191,Biodegradable Toothbrush,"Toothbrush with bamboo handle, fully biodegradable.",SmileGreen,Toiletries,biodegradable,2.99
+p192,Organic Cotton T-Shirt,"Soft T-shirt made from 100% organic cotton.",EcoWear,Clothing,"organic,ethical",15.99
+p193,Compostable Plates,"Plates made from bagasse, fully compostable.",GreenTable,Tableware,compostable,5.99
+p194,Recycled Aluminum Bottle,"Lightweight bottle made from recycled aluminum.",CycleWorks,Accessories,recycled,14.99
+p195,Organic Soy Candle,"Hand-poured candle made from organic soy wax.",GlowGreen,Home Decor,"organic,eco-friendly",11.99
+p196,Plastic-Free Shampoo,"Natural shampoo bar with zero plastic packaging.",NaturePure,Hair Care,"plastic-free,recyclable",7.49
+p197,Bamboo Phone Stand,"Phone stand made from sustainable bamboo.",EcoShade,Accessories,biodegradable,9.99
+p198,Organic Cotton Apron,"Durable apron made from 100% organic cotton.",GreenDine,Kitchen,"organic,ethical",19.99
+p199,Compostable Cutlery,"Cutlery made from plant-based materials, compostable.",GreenFork,Tableware,compostable,4.99
+p200,Recycled Paper Planner,"Planner made from 100% recycled paper, eco-friendly.",GreenPlan,Stationery,recycled,9.99
